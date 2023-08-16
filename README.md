@@ -1,6 +1,7 @@
 # Requirments
 
 - Kubernetes cluster
+- Terraform
 - kubectl
 - helm 
 - Yandex Cloud
